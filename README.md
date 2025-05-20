@@ -20,5 +20,6 @@ The application is built with **Tkinter** for the GUI and **MySQL Connector** fo
 ---
 
 ## 📸 Application Flow
-![_- visual selection](https://github.com/user-attachments/assets/283a1d6f-d2b8-4e31-9831-afb96e48a9eb)
+
+![Pastel Pink Green Blue Minimal Doodle A4 Document](https://github.com/user-attachments/assets/7454b023-d8d3-4861-ba89-68548b2e6f8b)
 
